@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testRunner.CalculationTestRunner" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-08-25T20:13:21" hostname="DESKTOP-QROR17O" time="36.184">
+  <properties/>
+  <testcase name="doSum" classname="testRunner.CalculationTestRunner" time="7.899"/>
+  <testcase name="doMinus" classname="testRunner.CalculationTestRunner" time="9.379"/>
+  <testcase name="doMultiplication" classname="testRunner.CalculationTestRunner" time="9.49"/>
+  <testcase name="doDivision" classname="testRunner.CalculationTestRunner" time="9.411"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
